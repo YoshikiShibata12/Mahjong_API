@@ -17,7 +17,7 @@ import com.HJN.MahjongCalculation.domain.service.common.RequestCheckService;
 
 /**
  * 点数計算コントローラー
- * @author HighJunk
+ * @author HighJunk.minami
  *
  */
 @RestController
