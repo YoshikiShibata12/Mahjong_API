@@ -8,7 +8,7 @@ package com.HJN.MahjongCalculation.domain.service.common;
 public class RoundOffPatternConsts {
 
   /**
-   * 五捨六入メソッド
+   * 五捨六入変換メソッド
    * @param score リクエスト点数
    * @return 五捨六入後の点数
    */
