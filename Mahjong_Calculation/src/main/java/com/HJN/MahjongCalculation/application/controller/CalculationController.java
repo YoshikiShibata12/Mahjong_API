@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
  * 計算 コントローラー
- * @author HJN
+ * @author HighJunk
  *
  */
 @Controller
